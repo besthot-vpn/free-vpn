@@ -77,7 +77,7 @@
 
 ・安卓/ Windows 双端深度适配，小白也能一键启动
 
-点击获取免费VPN下载>> <a href="https://www.jiasuwu.com/" target="_blank">**免费VPN试用**</a>
+点击获取免费VPN下载>> <a href="https://www.jiasuwu.com/download/" target="_blank">**免费VPN试用**</a>
 
 
 ### 2. StrongVPN—— 低调但稳定的 “生存王者”
@@ -93,7 +93,8 @@
 
 **短板：** 客户端界面偏 “工程师风”，交互不够现代化，新手可能不如 ExpressVPN、Surfshark 友好。但追求少折腾、稳定的小伙伴必看！
 
-点击获取免费VPN下载>> <a href="https://www.jiasuwu.com/" target="_blank">**免费VPN试用**</a>
+点击获取免费VPN下载>> <a href="https://www.jiasuwu.com/download/" target="_blank">**免费VPN试用**</a>
+
 
 ### 3. ExpressVPN—— 老牌翻墙
 
@@ -108,7 +109,8 @@
 
 **适合人群：** 预算宽松、对体验要求高，只想点连接键就能用的用户。稳定、成熟、维护及时，妥妥的翻墙首选！
 
-点击获取免费VPN下载>> <a href="https://www.jiasuwu.com/" target="_blank">**免费VPN试用**</a>
+点击获取免费VPN下载>> <a href="https://www.jiasuwu.com/download/" target="_blank">**免费VPN试用**</a>
+
 
 ### 4. Surfshark—— 功能派 + 速度派，流媒体用户福音
 
@@ -123,7 +125,7 @@
 
 **小提醒：** 默认配置可能需手动切换协议与节点，新用户稍需设置成本，但配置好后速度 + 稳定双在线！
 
-点击获取免费VPN下载>> <a href="https://www.jiasuwu.com/" target="_blank">**免费VPN试用**</a>
+点击获取免费VPN下载>> <a href="https://www.jiasuwu.com/download/" target="_blank">**免费VPN试用**</a>
 
 
 ### 5. PureVPN—— 价格优势，节点多
@@ -139,7 +141,7 @@
 
 **注意：** 体验存在时间段与地区差异，速度可能波动，更适合作为预算有限时的 “备选线路”，而非唯一主力。
 
-点击获取免费VPN下载>> <a href="https://www.jiasuwu.com/" target="_blank">**免费VPN试用**</a>
+点击获取免费VPN下载>> <a href="https://www.jiasuwu.com/download/" target="_blank">**免费VPN试用**</a>
 
 
 > ## 中国用户为什么会优先选择免费VPN
