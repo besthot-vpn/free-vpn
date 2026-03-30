@@ -73,8 +73,6 @@
 
 ・全套餐无速度 / 流量枷锁
 
-・香港服务器密度第一，港服游戏 / 流媒体秒连体验拉满
-
 ・安卓/ Windows 双端深度适配，小白也能一键启动
 
 点击获取免费VPN下载>> <a href="https://www.jiasuwu.com/download/" target="_blank">**免费VPN试用**</a>
